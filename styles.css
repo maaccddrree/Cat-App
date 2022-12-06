@@ -1,5 +1,5 @@
 body {
-    background-color: aqua;
+    background-color: rgb(4, 4, 4);
     margin-left: 100px;
 }
 
@@ -10,3 +10,46 @@ h2 {
 h1 {
     font-size: 50px;
 }
+
+
+#pic1 {
+    width: 400px;
+}
+
+#pic2 {
+
+    width: 400px;
+}
+#catty {
+
+   width: 500px;
+
+}
+
+section {
+    border-radius: 15px;
+}
+
+#sec1 {
+    background-color: red;
+}
+
+#sec2 {
+    background-color: rgb(99, 57, 151);
+}
+
+#sec3 {
+    background-color: rgb(188, 69, 186);
+}
+
+#sec4 {
+    background-color: rgb(176, 148, 38);
+}
+
+a:link {
+    text-decoration: none;
+  }
+
+a {
+    color: rgb(19, 37, 159);
+}  
